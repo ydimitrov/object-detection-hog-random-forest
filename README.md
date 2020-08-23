@@ -29,9 +29,9 @@ make
 to compile "./main"
 
 2) Run 
-```
-./main *<number of trees>* *<maximum depth>*
-```
+
+> ./main *<number of trees>* *<maximum depth>*
+
 - training data is in 'data/train/\*'
 
 - results can be found in 'data/results'
