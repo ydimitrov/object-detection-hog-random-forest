@@ -23,9 +23,8 @@ To run algorithm:
 
 1) Type 
 
-```
-make
-```
+> make
+
 to compile "./main"
 
 2) Run 
