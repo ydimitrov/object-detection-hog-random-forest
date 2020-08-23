@@ -37,7 +37,7 @@ to compile "./main"
 
 - ground truth bounding boxes are located in 'data/gt'
 
-## Example segmentations
+## Example detection and classification
 
 ![example](https://github.com/ydimitrov/object-detection-hog-random-forest/blob/master/data/example.png?raw=true)
 
